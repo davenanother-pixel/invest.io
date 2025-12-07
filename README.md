@@ -82,7 +82,7 @@ No servers, no downloads, no accounts
 
 Simply clone or download the repo:
 
-git clone https://github.com/YOUR-USERNAME/YOUR-REPO-NAME.git
+git clone https://github.com/davenanother-pixel/invest.io.git
 
 
 Open the file:
